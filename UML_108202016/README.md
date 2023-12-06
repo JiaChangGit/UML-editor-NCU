@@ -24,7 +24,7 @@ dist/UML_108202016.jar
 
 ## Compile
 
-src/guiPKG/Main.java
+src/gui/Main.java
 
 
 ## Project tree
